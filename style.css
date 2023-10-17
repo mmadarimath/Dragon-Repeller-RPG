@@ -1,0 +1,32 @@
+body {
+    background-color: darkblue;
+  }
+  
+  #text{
+    background-color: black;
+    color:#fff;
+    padding: 15px;
+  }
+ 
+  #controls {
+
+    padding: 5px;
+  }
+  
+  #stats {
+
+    color: black;
+    padding: 5px;
+  }
+  
+  #monsterStats {
+    display: none;
+
+    color: white;
+    padding: 5px;
+    background-color: red;
+  }
+  
+  .stat {
+    padding-right: 10px;
+  }
